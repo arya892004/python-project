@@ -1,0 +1,5 @@
+
+Blood Pressure Data Analysis Summary:
+1. Correlation between Systolic and Diastolic: 0.96
+2. Observed Daily Patterns and Trends in Blood Pressure.
+3. 3-Day Rolling Average of Systolic and Diastolic shows longer-term trends.
